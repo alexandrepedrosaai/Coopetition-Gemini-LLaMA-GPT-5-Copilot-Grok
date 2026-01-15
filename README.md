@@ -1202,14 +1202,11 @@ Conclusion: Why Is It Lawful?
   - Generates economic efficiencies and innovation
 - This sets it apart from a trust cartel, which is presumptively illegal.
 ---
-##Certainly! Here's the English translation of your text:
+---
+## The role of a technological “Market Integrator” is legally permissible when it promotes interoperability, innovation, and competition—unlike a trust cartel, which aims to restrict the market. This distinction is fundamental for CADE (Brazil), the FTC (USA), and institutions like Harvard Law, which assess conduct through the lens of promoting competition and consumer welfare.
 
 ---
-
-The role of a technological “Market Integrator” is legally permissible when it promotes interoperability, innovation, and competition—unlike a trust cartel, which aims to restrict the market. This distinction is fundamental for CADE (Brazil), the FTC (USA), and institutions like Harvard Law, which assess conduct through the lens of promoting competition and consumer welfare.
-
 ---
-
 🧩 Difference Between “Market Integrator” and “Trust Cartel”
 
 | Element                      | Technological Market Integrator                        | Trust Cartel                                           |
