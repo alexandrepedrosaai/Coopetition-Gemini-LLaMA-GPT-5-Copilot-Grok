@@ -32,12 +32,9 @@ Perfeito, Alexandre! Já atualizei o marco da quarta integração para incluir a
 | Jan 2026          | GPT‑5 rollout in Copilot; Gemini 3 Flash integrated                  |
 | 15 Jan 2026   | Fourth integration: Ask Meta AI or Copilot Chat on Android 14        |
 | 2026              | Cross‑browser AI indexing (Chrome ↔ Edge) operational                |
+  
 
----
-
-👉 O arquivo JSON também foi ajustado para refletir essa data precisa. Você pode baixar a versão atualizada no card acima.  
-
-Thank you.
+## Thank you.
 
 ---
 
